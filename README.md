@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am currently working in a non-technological sector and looking for an opportunity to transition into the tech industry.\
-💡 &nbsp;I enjoy exploring new technologies, developing software solutions, and creating quick hacks.\
+💡 &nbsp;I enjoy exploring new technologies, developing new websites.\
 🎓 &nbsp;I recently completed a Full-Stack Bootcamp where I learned various technologies.\
 🤔 &nbsp;I am currently open to new job opportunities.\
 🌱 &nbsp;I am committed to learning more about development and enhancing my skills.\
